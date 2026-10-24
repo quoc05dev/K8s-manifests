@@ -5,7 +5,7 @@ metadata:
 
 spec:
   selector:
-    app: web-app:v1
+    app: web-app-v1
 
   ports:
     - port: 80
